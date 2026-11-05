@@ -38,15 +38,15 @@ I am a 1st-year Software Engineering undergraduate at *İstanbul Ticaret Üniver
 ### ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="[https://github-readme-stats.vercel.app](https://github.com/EsmaAYKAN)/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="[https://github-readme-stats.vercel.app/api](https://github.com/EsmaAYKAN/ESMA-AYKAN-/edit/main/README.md)/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-- *LinkedIn:* [linkedin.com/in/your-profile](https://linkedin.com)
+- *LinkedIn:* [[linkedin.com/in/your-profile](https://linkedin.com)](https://www.linkedin.com/in/esma-aykan-233115449?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 - *Email:* esma.aykan@example.com
 
 > "Security is a process, not a product."
